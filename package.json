@@ -1,0 +1,8 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code channel",
+  "main": "index.js",
+  "author": "Athar Mahboob",
+  "license": "MIT"
+}
